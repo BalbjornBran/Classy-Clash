@@ -1,5 +1,5 @@
 # Classy-Clash
- Small topdown game made with Raylib library in c++.
+ Small topdown game made with Raylib library in c++. Just for learning more stuff.
  By Balbjorn Bran
  
  In this project, we are going to be playing a topdown game, where the player
