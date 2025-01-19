@@ -13,5 +13,5 @@
  Not gonna go too deep or complex on this game, just something really quick.
  
 You can download the project and open the -worskpace with vscode.
-There is also a .exe file there where you can just play.
+There is also a .rar file there where you can download and play the game.
  
